@@ -1,0 +1,11 @@
+List Of Git Commands
+
+git init
+git status
+git status
+git add .
+git commit -m "First commit"
+git config --global user.name "username"
+git config --global user.email "email"
+git remote add origin "https://github.com/Sanketh-2004/App1.git"
+git push origin master
